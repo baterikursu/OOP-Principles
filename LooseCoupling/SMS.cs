@@ -1,5 +1,4 @@
 using System;
-
 namespace LooseCoupling
 {
     public class SMS : IPaymentMethod
